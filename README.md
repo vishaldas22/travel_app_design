@@ -1,6 +1,13 @@
 # travel_app_design
 
-A new Flutter project.
+As the project name says its a travel UI design.
+
+credits: https://dribbble.com/shots/6980640-Traveling-App/attachments
+
+## Screenshots
+![](screenshots/home.jpeg)
+
+![](screenshots/details.jpeg)
 
 ## Getting Started
 
